@@ -64,6 +64,3 @@ Make sure the database name in all `.sql` files matches the name you're using in
 
 ──────────────────────────────────────────────
 
-👨‍💻 Created by: sanchit
-📅 Date: April 4, 2025
-
