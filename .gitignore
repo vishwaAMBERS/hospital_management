@@ -1,0 +1,19 @@
+# MySQL Workbench
+*.mwb.bak
+*.mwb.lck
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup folders
+/hospital\ management\ backup/
+
+# PDF and Screenshots (optional, but keep if user wants them on git)
+# *.pdf
+# /screenshots/
